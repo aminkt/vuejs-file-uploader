@@ -1,0 +1,28 @@
+{
+  "name": "vuejs-file-uploader",
+  "version": "1.0.0",
+  "description": "Create an input to upload files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminkt/vuejs-file-uploader"
+  },
+  "keywords": [
+    "upload",
+    "vuejs",
+    "file",
+    "ajax upload"
+  ],
+  "author": "AminKt<Amin@keshavarz@pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aminkt/vuejs-file-uploader/issues"
+  },
+  "homepage": "https://github.com/aminkt/vuejs-file-uploader",
+  "dependencies": {
+    "vue": "^2.6.0"
+  }
+}
