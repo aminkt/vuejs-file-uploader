@@ -7,7 +7,7 @@ Run bellow command:
 npm i vuejs-file-uploader
 ```
 
-#Usage
+Usage
 ------
 Add bellow code to your template part:
 ```html
@@ -112,3 +112,7 @@ export default {
     }
   };
 ```
+
+Demo
+-------
+![alt text](demo.png)
